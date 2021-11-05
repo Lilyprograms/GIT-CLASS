@@ -24,3 +24,35 @@ html {
   color: white;
   padding: 10px 20px;
 }
+.banner {
+  background-image: url('./images/banner.jpg');
+  height: 500px;
+  background-size: cover;
+  text-align: center;
+  color: white;
+}
+.banner-text1 {
+  padding-top: 150px;
+  font-size: 50px;
+}
+.banner-text2 {
+  padding-top: 5px;
+  font-size: 20px;
+}
+.banner-btn1 {
+  padding: 5px 20px;
+  font-size: 14px;
+  background-color: rgb(9, 9, 104);
+  color: white;
+  margin-top: 30px;
+  border: 2px solid rgb(9, 9, 104);
+  margin-right: 10px;
+}
+.banner-btn2 {
+  padding: 5px 20px;
+  font-size: 14px;
+  color: rgb(9, 9, 104);
+  margin-top: 30px;
+  border: 2px solid rgb(9, 9, 104);
+  background-color: white;
+}
